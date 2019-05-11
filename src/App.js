@@ -1,20 +1,24 @@
 import React from "react";
 import "./App.css";
+import Instructions from "./components/Instructions";
 
 function App() {
   return (
     <div className="container">
       <header className="header">
-        <div>
-          <h1 style={{ display: "inline" }}>Drunkcord</h1>
-          <h3 style={{ display: "inline" }}>
-            A Discord Bot to keep track of who is drinking in the Discord
-            Server!
-          </h3>
-        </div>
+        <img src={require("./assets/Drunkord.png")} alt="Drunkcord" />
+        <h1 style={{ display: "inline", verticalAlign: "super" }}>Drunkcord</h1>
+        <h3 style={{ display: "inline" }}>
+          A Bot to keep track of who is drinking in the Server!
+        </h3>
       </header>
+      <Instructions />
       <div className="main">
-        The best bot for getting drunk with your friends
+        <img
+          className="screenshot"
+          src={require("./assets/beer_screenshot.png")}
+          alt="Show output of consumed beers"
+        />
       </div>
       <div className="footer">
         Made with{" "}
