@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/drunkcord/precache-manifest.af5492b953774ef8128a6fd3acfa4c93.js"
+  "/drunkcord/precache-manifest.ac4c0d1caf53a7df78f7b0eee090dcb5.js"
 );
 
 self.addEventListener('message', (event) => {

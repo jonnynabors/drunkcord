@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/drunkcord/static/css/main.9f8d5cc6.chunk.css",
-    "main.js": "/drunkcord/static/js/main.fa2654e1.chunk.js",
-    "main.js.map": "/drunkcord/static/js/main.fa2654e1.chunk.js.map",
+    "main.css": "/drunkcord/static/css/main.5c2dce56.chunk.css",
+    "main.js": "/drunkcord/static/js/main.faafce87.chunk.js",
+    "main.js.map": "/drunkcord/static/js/main.faafce87.chunk.js.map",
     "runtime~main.js": "/drunkcord/static/js/runtime~main.10b7f1ea.js",
     "runtime~main.js.map": "/drunkcord/static/js/runtime~main.10b7f1ea.js.map",
     "static/js/2.3310f33a.chunk.js": "/drunkcord/static/js/2.3310f33a.chunk.js",
     "static/js/2.3310f33a.chunk.js.map": "/drunkcord/static/js/2.3310f33a.chunk.js.map",
     "index.html": "/drunkcord/index.html",
-    "precache-manifest.af5492b953774ef8128a6fd3acfa4c93.js": "/drunkcord/precache-manifest.af5492b953774ef8128a6fd3acfa4c93.js",
+    "precache-manifest.ac4c0d1caf53a7df78f7b0eee090dcb5.js": "/drunkcord/precache-manifest.ac4c0d1caf53a7df78f7b0eee090dcb5.js",
     "service-worker.js": "/drunkcord/service-worker.js",
-    "static/css/main.9f8d5cc6.chunk.css.map": "/drunkcord/static/css/main.9f8d5cc6.chunk.css.map"
+    "static/css/main.5c2dce56.chunk.css.map": "/drunkcord/static/css/main.5c2dce56.chunk.css.map",
+    "static/media/Drunkord.png": "/drunkcord/static/media/Drunkord.4072b831.png",
+    "static/media/beer_screenshot.png": "/drunkcord/static/media/beer_screenshot.6ee97c90.png"
   }
 }
