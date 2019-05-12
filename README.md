@@ -20,7 +20,7 @@ Lists how many drinks each participant has had
 
 Clears the drink list
 
-### !dc-help
+### !db-help
 
 Lists all commands that Drunkcord knows
 
